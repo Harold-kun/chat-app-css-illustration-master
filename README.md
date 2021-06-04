@@ -31,11 +31,11 @@ Users should be able to:
 
 **DESKTOP**
 
-![](/home/gol/Desktop/FRONT_END_WED_DEVELOPMENT/FRONTENDMENTOR/chat-app-css-illustration-master/screenshot-1.png)
+![](./screenshot-1.png)
 
 **MOBILE**
 
-![](/home/gol/Desktop/FRONT_END_WED_DEVELOPMENT/FRONTENDMENTOR/chat-app-css-illustration-master/screenshot-2.png)
+![](./screenshot-2.png)
 
 ### Links
 
